@@ -12,12 +12,18 @@
 
 * It should tell them the interpretation of their BMI based on the BMI value.
 
-- Under 18.5 they are underweight
-- Over 18.5 but below 25 they have a normal weight
-- Over 25 but below 30 they are slightly overweight
-- Over 30 but below 35 they are obese
-- Above 35 they are clinically obese.
+  - Under 18.5 they are underweight
+  - Over 18.5 but below 25 they have a normal weight
+  - Over 25 but below 30 they are slightly overweight
+  - Over 30 but below 35 they are obese
+  - Above 35 they are clinically obese.
 
 * The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
 
 * Warning you should round the result to the nearest whole number. The interpretation message needs to include the words in bold from the interpretations above. e.g. underweight, normal weight, overweight, obese, clinically obese.
+
+# Leap Year
+
+* Write a program that works out whether if a given year is a leap year. A normal year has 365 days, leap years have 366, with an extra day in February.
+
+* This is how you work out whether if a particular year is a leap year: for every year that is evenly divisible by 4 **except** every year that is evenly divisible by 100 **unless** the year is also evenly divisible by 400
