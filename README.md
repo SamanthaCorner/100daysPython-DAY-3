@@ -33,3 +33,11 @@
 * Build an automatic pizza order program which is based on a user's order to work out their final bill.
 
 * Starting code containing the values of size and extras was supplied.
+
+# Love Calculator
+
+* Tests the compatibility between two people by calculating their "love score"
+
+* METHOD: Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs. Then combine these numbers to make a 2 digit number.
+
+* Thereafter give the results, accompanied by what the resulting numbers mean.
